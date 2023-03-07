@@ -1,7 +1,22 @@
 body {
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
+    
 }
 p{
     text-align: left;
+}
+
+.subtitulo{
+    text-align: left;
+    margin-top: 50px;
+}
+.header{
+    background-color: rgb(160, 160, 83);
+    text-align: center;
+    display: flex;
+}
+.footer{
+    background-color: rgb(160, 160, 83);
+    
 }
